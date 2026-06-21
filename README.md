@@ -20,11 +20,11 @@ Link: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellatio
 
 This is a binary classification project.
 
-Target column: booking status
+Target column: is_canceled
 
 Possible outcomes:
-- Canceled
-- Not_Canceled
+- 1 = Canceled
+- 0 = Not_Canceled
 
 ## Tools
 

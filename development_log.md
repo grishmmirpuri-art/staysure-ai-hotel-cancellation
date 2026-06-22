@@ -15,3 +15,4 @@
 | 22 Jun 2026 | Explored selected numerical features | To check how `lead_time` and `total_of_special_requests` relate to cancellation |
 | 22 Jun 2026 | Explored selected categorical features | To check whether `hotel`, `deposit_type`, `market_segment` and `customer_type` may be useful after encoding |
 | 22 Jun 2026 | Created feature-engineered columns for EDA | To test whether simplified booking features such as `total_nights`, `total_guests`, `has_children` and `has_special_request` show useful patterns |
+| 22 Jun 2026 | Completed data cleaning | To handle missing values, remove invalid 0-guest bookings, and drop leakage columns |

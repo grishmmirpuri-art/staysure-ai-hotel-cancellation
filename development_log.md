@@ -11,3 +11,7 @@
 | 21 Jun 2026 | Completed basic data understanding | To check dataset size, columns, data types, missing values, duplicates and target distribution |
 | 21 Jun 2026 | Started table-based EDA | To explore cancellation patterns without using Matplotlib or Seaborn |
 | 21 Jun 2026 | Checked correlation with target | To identify numerical features that may be useful for cancellation prediction |
+| 22 Jun 2026 | Continued table-based EDA | To analyse cancellation patterns without using Matplotlib or Seaborn |
+| 22 Jun 2026 | Explored selected numerical features | To check how `lead_time` and `total_of_special_requests` relate to cancellation |
+| 22 Jun 2026 | Explored selected categorical features | To check whether `hotel`, `deposit_type`, `market_segment` and `customer_type` may be useful after encoding |
+| 22 Jun 2026 | Created feature-engineered columns for EDA | To test whether simplified booking features such as `total_nights`, `total_guests`, `has_children` and `has_special_request` show useful patterns |

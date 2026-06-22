@@ -22,9 +22,11 @@ This is a binary classification project.
 
 Target column: is_canceled
 
+
 Possible outcomes:
 - 1 = Canceled
-- 0 = Not_Canceled
+- 0 = 
+Not_Canceled
 
 ## Tools
 

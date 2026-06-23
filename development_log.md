@@ -26,3 +26,7 @@
 | 23 Jun 2026 | Trained Decision Tree, Random Forest and Gradient Boosting models | To compare different classification algorithms |
 | 23 Jun 2026 | Evaluated models using accuracy, precision, recall and F1-score | To compare model performance on the test set |
 | 23 Jun 2026 | Compared models using F1-score | To select the best model for further evaluation |
+| 23 Jun 2026 | Performed hyperparameter tuning on Random Forest | To improve the best model using RandomizedSearchCV |
+| 23 Jun 2026 | Selected best Random Forest hyperparameters | To identify the parameter combination that gave the best tuning result |
+| 23 Jun 2026 | Evaluated tuned Random Forest model on test set | To compare tuned model performance against the untuned model |
+| 23 Jun 2026 | Compared Random Forest before and after tuning | To check whether hyperparameter tuning improved the F1-score |

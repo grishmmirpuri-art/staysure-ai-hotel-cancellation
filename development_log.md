@@ -21,3 +21,8 @@
 | 23 Jun 2026 | Encoded categorical variables | To convert categorical features into numerical format using `pd.get_dummies()` |
 | 23 Jun 2026 | Split dataset into training and testing sets | To prepare separate data for model training and evaluation |
 | 23 Jun 2026 | Applied feature scaling | To prepare numerical features for models such as Logistic Regression |
+| 23 Jun 2026 | Started model training section | To begin training classification models for hotel cancellation prediction |
+| 23 Jun 2026 | Trained Logistic Regression baseline model | To create a simple baseline model for comparison with other models |
+| 23 Jun 2026 | Trained Decision Tree, Random Forest and Gradient Boosting models | To compare different classification algorithms |
+| 23 Jun 2026 | Evaluated models using accuracy, precision, recall and F1-score | To compare model performance on the test set |
+| 23 Jun 2026 | Compared models using F1-score | To select the best model for further evaluation |

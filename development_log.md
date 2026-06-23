@@ -16,3 +16,8 @@
 | 22 Jun 2026 | Explored selected categorical features | To check whether `hotel`, `deposit_type`, `market_segment` and `customer_type` may be useful after encoding |
 | 22 Jun 2026 | Created feature-engineered columns for EDA | To test whether simplified booking features such as `total_nights`, `total_guests`, `has_children` and `has_special_request` show useful patterns |
 | 22 Jun 2026 | Completed data cleaning | To handle missing values, remove invalid 0-guest bookings, and drop leakage columns |
+| 23 Jun 2026 | Renumbered data understanding section | To make the notebook structure clearer and easier to follow |
+| 23 Jun 2026 | Completed feature selection | To choose a focused set of useful features for model training |
+| 23 Jun 2026 | Encoded categorical variables | To convert categorical features into numerical format using `pd.get_dummies()` |
+| 23 Jun 2026 | Split dataset into training and testing sets | To prepare separate data for model training and evaluation |
+| 23 Jun 2026 | Applied feature scaling | To prepare numerical features for models such as Logistic Regression |

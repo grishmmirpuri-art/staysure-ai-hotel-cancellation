@@ -30,3 +30,7 @@
 | 23 Jun 2026 | Selected best Random Forest hyperparameters | To identify the parameter combination that gave the best tuning result |
 | 23 Jun 2026 | Evaluated tuned Random Forest model on test set | To compare tuned model performance against the untuned model |
 | 23 Jun 2026 | Compared Random Forest before and after tuning | To check whether hyperparameter tuning improved the F1-score |
+| 24 Jun 2026 | Completed final model evaluation section | To evaluate the tuned Random Forest model in detail |
+| 24 Jun 2026 | Created confusion matrix for tuned Random Forest model | To show correct and incorrect predictions for cancelled and not cancelled bookings |
+| 24 Jun 2026 | Generated classification report for tuned Random Forest model | To review precision, recall and F1-score for both target classes |
+| 24 Jun 2026 | Wrote final evaluation summary | To explain the final model performance and suitability for the Streamlit application |

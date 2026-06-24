@@ -34,3 +34,4 @@
 | 24 Jun 2026 | Created confusion matrix for tuned Random Forest model | To show correct and incorrect predictions for cancelled and not cancelled bookings |
 | 24 Jun 2026 | Generated classification report for tuned Random Forest model | To review precision, recall and F1-score for both target classes |
 | 24 Jun 2026 | Wrote final evaluation summary | To explain the final model performance and suitability for the Streamlit application |
+| 24 Jun 2026 | Refined notebook explanations | To improve clarity of model training, tuning and evaluation sections |

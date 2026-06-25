@@ -35,3 +35,5 @@
 | 24 Jun 2026 | Generated classification report for tuned Random Forest model | To review precision, recall and F1-score for both target classes |
 | 24 Jun 2026 | Wrote final evaluation summary | To explain the final model performance and suitability for the Streamlit application |
 | 24 Jun 2026 | Refined notebook explanations | To improve clarity of model training, tuning and evaluation sections |
+| 25 Jun 2026 | Added outlier check for selected numerical features | To review unusual values in features used or explored for modelling |
+| 25 Jun 2026 | Saved final tuned Random Forest model | To reuse the final model later in the Streamlit application |

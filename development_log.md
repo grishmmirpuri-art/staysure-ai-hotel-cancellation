@@ -37,3 +37,8 @@
 | 24 Jun 2026 | Refined notebook explanations | To improve clarity of model training, tuning and evaluation sections |
 | 25 Jun 2026 | Added outlier check for selected numerical features | To review unusual values in features used or explored for modelling |
 | 25 Jun 2026 | Saved final tuned Random Forest model | To reuse the final model later in the Streamlit application |
+| 9 Jul 2026 | Added visual EDA section using Seaborn and Matplotlib | To demonstrate understanding of visual data exploration in the machine learning pipeline |
+| 9 Jul 2026 | Created distribution plots for target and selected features | To examine target imbalance and feature spread |
+| 9 Jul 2026 | Created boxplots for selected numerical features | To check spread and possible outliers visually |
+| 9 Jul 2026 | Created correlation heatmaps | To understand relationships between numerical features and the target variable |
+| 9 Jul 2026 | Created categorical cancellation rate plots | To compare cancellation patterns across deposit type and market segment |

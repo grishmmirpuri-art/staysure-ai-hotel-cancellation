@@ -42,3 +42,9 @@
 | 9 Jul 2026 | Created boxplots for selected numerical features | To check spread and possible outliers visually |
 | 9 Jul 2026 | Created correlation heatmaps | To understand relationships between numerical features and the target variable |
 | 9 Jul 2026 | Created categorical cancellation rate plots | To compare cancellation patterns across deposit type and market segment |
+| 22 Jul 2026 | Saved compressed trained model for Streamlit deployment | To reduce the model file size and allow the final model to be loaded by the Streamlit app |
+| 22 Jul 2026 | Saved encoded feature columns for Streamlit preprocessing | To ensure user input is processed using the same columns as the training data |
+| 22 Jul 2026 | Created Streamlit app for model deployment | To allow users to enter booking details and receive a cancellation prediction |
+| 22 Jul 2026 | Added requirements file for Streamlit Cloud | To list the Python libraries needed to run the deployed app |
+| 22 Jul 2026 | Tested Streamlit app locally | To check that the app loads the model, processes user input and produces predictions correctly |
+| 22 Jul 2026 | Prepared model and column files for deployment | To ensure Streamlit can load the trained model and match the encoded training columns |

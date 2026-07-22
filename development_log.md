@@ -48,3 +48,6 @@
 | 22 Jul 2026 | Added requirements file for Streamlit Cloud | To list the Python libraries needed to run the deployed app |
 | 22 Jul 2026 | Tested Streamlit app locally | To check that the app loads the model, processes user input and produces predictions correctly |
 | 22 Jul 2026 | Prepared model and column files for deployment | To ensure Streamlit can load the trained model and match the encoded training columns |
+| 22 Jul 2026 | Deployed Streamlit app to Streamlit Cloud | To make the hotel cancellation prediction app accessible online |
+| 22 Jul 2026 | Fixed Streamlit requirements file | To ensure required Python libraries were installed during cloud deployment |
+| 22 Jul 2026 | Tested deployed Streamlit app | To confirm that the app loads successfully and accepts user inputs |

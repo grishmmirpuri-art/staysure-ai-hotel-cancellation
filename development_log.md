@@ -53,3 +53,4 @@
 | 22 Jul 2026 | Tested deployed Streamlit app | To confirm that the app loads successfully and accepts user inputs |
 | 22 Jul 2026 | Completed Streamlit Cloud deployment | To make the hotel cancellation prediction app accessible online through a public web link |
 | 23 Jul 2026 | Updated README with project details and deployed Streamlit link | To document the completed project, model workflow, technologies used and provide access to the live web application |
+| 23 Jul 2026 | Committed and pushed updated project documentation to GitHub | To maintain version control evidence and ensure the latest project information is available in the repository |
